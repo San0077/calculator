@@ -1,0 +1,9 @@
+th{
+    border:2px solid black;
+    position :absolute;
+    padding:120px;
+}
+tr{
+    border:2px solid black;
+    position:relative;
+}
