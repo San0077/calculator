@@ -1,49 +1,77 @@
-body{
-    background-color: whitesmoke
-}
-.btn btn-primary{
-    letter-spacing: 2px;
-}
-.main{
-    width: 50%;
-    background-color: rgb(142, 132, 132); 
-    box-shadow: 2px 3px ;
-    padding: 5px;
-    margin:10px 5px;
-    box-shadow: 2px 3px;
-    margin-left: 40px;
-    margin-top: 20px;
-    box-shadow:5px 10px white
+
+Meet
+New meeting
+Join a meeting
+Hangouts
+
+21 of many
+js file
+Inbox
+
+santhosh balaji
+AttachmentsTue, Apr 26, 12:39 PM (9 days ago)
+ 
+
+nathiya ayyadurai
+Attachments
+Wed, Apr 27, 10:11 AM (8 days ago)
+to me
 
 
-   
+
+On Tue, 26 Apr 2022 at 12:39, santhosh balaji <santhoshbalaji304@gmail.com> wrote:
+
+
+Attachments area
+.container
+{
+width: 350px;  
+height: 450px;  
+margin: 20px auto;  
+border: 3px solid silver;  
+border-radius: 5px;  
+padding: 15px;  
+text-align: center;  
+background-color: #111113;
+border-radius: 15px; 
 }
+input  
+{  
+width: 250px; 
+height: 100px;
+background-color: #111113;  
+color: silver;  
+border: 3px solid gray;  
+    border-radius: 5px;  
+    padding: 26px;  
+    margin: 5px;  
+    font-size: 25px;  
+    border-radius: 10px;
+}  
 button{
-    margin: 15px;
+    
+    width: 50px;
+    height: 50px; 
+    clip-path: circle();
+    font-size: 20px;  
+    margin: 5px;  
+    border-color: #383B38;
+    background-color: #383B38;  
+    color: white;  
+
 }
-input{
-    border-radius: 2px;
-    border:2px solid rgb(99, 167, 215);
-    width:300px;
-    height:35px;
-    color: #093a79;
-    font-family:'Times New Roman', Times, serif;
-    background-color:rgb(235, 221, 221);
-    letter-spacing:4px;
-    text-indent: 6px;
+.btn{
+    
+    width: 50px;
+    height: 50px; 
+    clip-path: circle();
+    font-size: 20px;  
+    margin: 5px;  
+    border-color: #383B38;
+    background-color: #D88530;  
+    color: white;  
+
 }
-label{
-    color:rgb(150, 36, 36);
-    font-family: fantasy;
-    font-size: 20px;
-}
-form{
-   margin-left: 20px;
-   
-}
-h4{
-    color:black;
-    font-size: 30px;
-    font-family: fantasy;
-    margin-left: 40px;
+.cal{
+    color: silver;
 }
